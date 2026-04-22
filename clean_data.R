@@ -18,3 +18,4 @@ wages$log_wage <- log(wages$wage)
 wages <- wages[wages$educ >= 12, ]
 
 # Modified by izzzzy for session 5 exercise
+# wowza I can edit in multiple ways
