@@ -16,3 +16,5 @@ wages$log_wage <- log(wages$wage)
 
 # Keep only workers with at least a high school education
 wages <- wages[wages$educ >= 12, ]
+
+# Modified by izzzzy for session 5 exercise
